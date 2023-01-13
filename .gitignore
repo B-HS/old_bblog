@@ -45,3 +45,7 @@ npm-debug.log
 yarn-error.log
 
 # End of https://www.toptal.com/developers/gitignore/api/maven,vuejs,react
+bblogback/src/main/resources/application.properties
+bblogback/mvnw.cmd
+bblogback/mvnw
+bblogback/HELP.md
