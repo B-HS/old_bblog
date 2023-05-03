@@ -50,3 +50,5 @@ bblogback/mvnw.cmd
 bblogback/mvnw
 bblogback/HELP.md
 bblogfront/env.d.ts
+
+*.properties
